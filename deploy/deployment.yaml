@@ -22,7 +22,7 @@ spec:
         name: accounts
         resources: {}
         
-     env:
+    env:
       - name: DATABASE_HOST
         value: postgresql
       - name: DATABASE_NAME
